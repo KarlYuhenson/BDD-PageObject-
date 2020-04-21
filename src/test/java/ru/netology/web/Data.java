@@ -23,11 +23,9 @@ public class Data {
         private String cardNumber;
     }
     public static MoneyTransfer oneCardInfo() {
-
         return new MoneyTransfer("5559 0000 0000 0001");
     }
     public static MoneyTransfer twoCardInfo() {
-
         return new MoneyTransfer("5559 0000 0000 0002");
     }
 }
